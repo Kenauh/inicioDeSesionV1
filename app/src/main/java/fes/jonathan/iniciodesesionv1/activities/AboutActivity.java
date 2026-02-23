@@ -27,5 +27,6 @@ public class AboutActivity extends AppCompatActivity {
 
     public void atras(View view) {
        finish();
+
     }
 }
